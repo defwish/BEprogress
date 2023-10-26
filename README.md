@@ -9,4 +9,5 @@ done:
 in progress:
 - frontend cu primeng
 - test coverage 100%
-- mapare dto 
+- mapare dto
+- link frontend vechi cu be
