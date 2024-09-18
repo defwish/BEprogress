@@ -49,7 +49,7 @@ public class EmployeeService {
     }
 
     public Employee getEmployeeById(long id) {
-        // Implement logic to retrieve an employee by ID from the repository
+        
         Optional<Employee> employeeOptional = employeeRepository.findById(id);
         if (employeeOptional.isPresent()) {
             return employeeOptional.get();
