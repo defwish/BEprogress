@@ -1,2 +1,2 @@
 # BEprogress
-random project - not finished
+random project v1 - not finished
